@@ -1,0 +1,18 @@
+date,amount,category,description,type
+2023-01-01,100.00,Salary,Monthly salary,income
+2023-01-05,50.00,Groceries,Weekly grocery shopping,expense
+2023-01-10,20.00,Transport,Bus fare,expense
+2023-01-15,200.00,Freelance Project,Payment for freelance work,income
+2023-01-20,30.00,Utilities,Electricity bill,expense
+2023-01-25,150.00,Investment,Stock purchase,income
+2023-02-01,75.00,Entertainment,Movie night,expense
+2023-02-05,40.00,Groceries,Weekly grocery shopping,expense
+2023-02-10,100.00,Salary,Bonus payment,income
+2023-02-15,25.00,Transport,Train ticket,expense
+2023-02-20,120.00,Freelance Project,Payment for freelance work,income
+2023-02-25,50.00,Utilities,Internet bill,expense
+2023-03-01,80.00,Entertainment,Concert ticket,expense
+2023-03-05,60.00,Groceries,Weekly grocery shopping,expense
+2023-03-10,200.00,Investment,Bond purchase,income
+2023-03-15,30.00,Transport,Bus fare,expense
+2023-03-20,150.00,Salary,Monthly salary,income
